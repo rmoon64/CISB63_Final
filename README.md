@@ -1,5 +1,5 @@
 # CISB63_Final
-## This is my midterm project for CISB 63
+## This is my final project for CISB 63
 
 ## Name: Russell Luna
 
